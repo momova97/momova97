@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on intersting and challenging projects.
 - 📫 m.h.movahedi97@gmail.com
 - 📫 movahedi.m@northeastern.edu
+- 📃 https://www.linkedin.com/in/mh-movahedi/
 
 
 <!---
