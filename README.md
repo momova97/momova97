@@ -11,11 +11,7 @@
 - 🌱 Continuously exploring **Web Development**, **Cloud Architecture**, and **Privacy-Enhancing Technologies**  
 - 💡 Excited to collaborate on innovative and challenging projects
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/mh-movahedi/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  
-</div>
+
 
 ### 🔥 My GitHub Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=momova97&theme=default&hide_border=true&border_radius=5)](https://git.io/streak-stats)
@@ -31,7 +27,12 @@
 
 ### 📫 Let's Connect:
 - ✉️ Email: [m.h.movahedi97@gmail.com](mailto:m.h.movahedi97@gmail.com) | [movahedi.m@northeastern.edu](mailto:movahedi.m@northeastern.edu)  
-- 💼 LinkedIn: [linkedin.com/in/mh-movahedi](https://www.linkedin.com/in/mh-movahedi/)
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/mh-movahedi/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  
+</div>
 
 ---
 
